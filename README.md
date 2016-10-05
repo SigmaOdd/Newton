@@ -1,2 +1,11 @@
-# Newton
 Newton
+======
+
+Newton
+
+
+License
+-------
+
+MIT License
+
